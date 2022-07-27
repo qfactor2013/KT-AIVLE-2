@@ -5,3 +5,6 @@
 HEAD는 working directory가 누구와 같은지를 가르킨다.(현재 보고있는 내용)
 git log --oneline // git log를 commit ID와 message 로 간략히 출력한다.
 checkout은 HEAD를 옮긴다.
+detached HEAD state
+checkout은 HEAD를 바꾼다.
+reset은 master를 바꾼다.
