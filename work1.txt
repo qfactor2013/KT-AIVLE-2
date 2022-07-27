@@ -8,3 +8,6 @@ checkout은 HEAD를 옮긴다.
 detached HEAD state
 checkout은 HEAD를 바꾼다.
 reset은 master를 바꾼다.
+git config --global alias.l "log --oneline --all --graph"  // config 안에 명령문을 alias 화 한다.
+git config --global core.editor "code --wait" // commit log를 편집기에서 볼 수 있게 함
+merge는 master에서 해야한다.
